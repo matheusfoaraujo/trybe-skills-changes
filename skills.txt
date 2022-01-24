@@ -1,2 +1,5 @@
 Unix
 Bash
+git
+HTML
+CSS
